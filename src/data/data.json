@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Kaleici Old Town",
+        "rating": 4.5,
+        "numberOfReviews": 171,
+        "duration": "Half day",
+        "price": 0,
+        "image": "assets/images/kaleici.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Aspendos Antic Theater",
+        "rating": 5,
+        "numberOfReviews": 534,
+        "duration": "Full day",
+        "price": 0,
+        "image": "assets/images/aspendos.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Olympos",
+        "rating": 4.5,
+        "numberOfReviews": 60,
+        "duration": "Full day",
+        "price": 0,
+        "image": "assets/images/olympos.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Kursunlu Waterfall",
+        "rating": 4.5,
+        "numberOfReviews": 72,
+        "duration": "4 hours",
+        "price": 0,
+        "image": "assets/images/kursunlu.jpg"
+    },    {
+        "id": 5,
+        "name": "Land Of Legends",
+        "rating": 4.5,
+        "numberOfReviews": 300,
+        "duration": "Half day",
+        "price": 0,
+        "image": "assets/images/land-of-legends.jpg"
+    },    {
+        "id": 6,
+        "name": "Koprulu Kanyon Rafting",
+        "rating": 4.5,
+        "numberOfReviews": 90,
+        "duration": "Full day",
+        "price": 0,
+        "image": "assets/images/koprulu-kanyon.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Perge Excursion",
+        "rating": 4.5,
+        "numberOfReviews": 36,
+        "duration": "3 hours",
+        "price": 0,
+        "image": "assets/images/perge.jpg"
+    }
+]
